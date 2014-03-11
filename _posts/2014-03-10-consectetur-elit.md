@@ -1,7 +1,7 @@
 ---
 title: Consectetur Elit
 layout: post
-author: Lee Goodman
+author: 
 category: latin
 tags: 
   - Foreign Language
