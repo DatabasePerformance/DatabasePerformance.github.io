@@ -1,0 +1,14 @@
+{% include header.html %}
+<div class="row-fluid">
+    <div class="col-md-8">
+	<p>{{page.author}}</p>
+	<h1>{{page.title}}</h1>
+        {{content}}
+	</br>
+	<b><i>Category: <a href="">{{page.category}}</a></i></b> <i>Tags: {{page.tags}}</i>
+    </div>
+    <div class="col-md-4">
+        {% include sidebar.html %}
+    </div>
+</div>
+{% include footer.html %}
