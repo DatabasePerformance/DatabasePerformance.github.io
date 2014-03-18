@@ -1,0 +1,15 @@
+/* Custom CSS for DatabasePerformance.co.uk -->*/
+/* light_wool from http://subtlepatterns.com/.  CC BY-SA 3.0 - Subtle Patterns © Atle Mo. */
+body {   
+  background: url(/img/light_wool.png) repeat 0 0; 
+  padding-top: 70px;
+}
+
+.container {
+  padding: 10px;
+  max-width: 1024px;
+}
+
+.jumbotron {
+  text-align: center;
+}
